@@ -5,7 +5,7 @@ Repository contains the code and API links to make the following projects and ex
 * <a href="https://github.com/Blitzcryp/Clientside-API-Projects/tree/master/v1/ISS">ISS Tracker 🛰️🛰️</a>
   * Using ISS GeoLocation API
   * Using Leafy
-* Button-Press cat fact generator🐈🐈
+* <a href="https://github.com/Blitzcryp/Clientside-API-Projects/tree/master/v1/catFacts">Button-Press cat fact generator🐈🐈</a>
   * Free CatFact API
 * Custom covid data grapher 📈📈
   * WHO .CSV Data
