@@ -1,6 +1,6 @@
 # Clientside-API-Projects
 
-This is an <span style='color: red'>**ongoing**</span> list of my backend and frontend projects using **Javascript**, **MySQL** and **PHP**
+This is an <span style='color: red'>**ongoing**</span> list of my backend and frontend projects using <span style='color: blue'>**Javascript**, **MySQL** and **PHP**</span>
 Repository contains the code and API links to make the following projects and extend them: 
 * <a href="https://github.com/Blitzcryp/Clientside-API-Projects/tree/master/v1/ISS">ISS Tracker 🛰️🛰️</a>
   * Using ISS GeoLocation API
