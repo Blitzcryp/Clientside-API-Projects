@@ -1,6 +1,6 @@
 # Clientside-API-Projects
 
-This is an <span style='color: red'>**ongoing**</span> list of my backend and frontend projects using **Javascript**, **MariaDB** and **Node.js**
+This is an <span style='color: red'>**ongoing**</span> list of my backend and frontend projects using **Javascript**, **MySQL** and **PHP**
 Repository contains the code and API links to make the following projects and extend them: 
 * ISS Tracker 
   * Using ISS GeoLocation API
