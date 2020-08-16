@@ -22,3 +22,10 @@ Repository contains the code and API links to make the following projects and ex
   * Every 30s will get your lat/long data (if you allow it) and it will provide weather data for where you are **Now**
   * It provides a link to google maps to check if the location is accurate
   * Note: I am experiencing a bug that if 2 users use the app, the 2nd user will not get his geolocation but the 1st user's geolocation
+* <a href="https://github.com/Blitzcryp/Clientside-API-Projects/tree/master/v1/covid_interactive_graph"> Covid Interactive Graph </a>
+  * Uses Covid daily API to pull the data in the browser
+  * Bugs:
+   * With every query the graphs overlap 
+  * TODO: 
+   * Move the query data in the server and update it daily (add the new entry)
+   * Make a date-start / date-finish query available
